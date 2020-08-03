@@ -1,11 +1,11 @@
 [
     {
       "titulo": "Ação",
-      "link": "https://www.claquete.com.br/fotos/galeria_fotos/45187.jpg",
+      "link": "https://www.youtube.com/watch?v=ou_jea3czo8",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Filmes de ação",
-        "url": "https://www.claquete.com.br/fotos/galeria_fotos/45187.jpg"
+        "text": "Filme de ação em alta",
+        "url": "https://www.youtube.com/watch?v=ou_jea3czo8"
       },
       "videos": [
         {
@@ -14,7 +14,7 @@
         },
         {
           "titulo": "O Estrangeiro",
-          "url": "https://www.youtube.com/watch?v=Jyloz9Kx6k0&list=PLbOYxfav_qm5h4vB7LXG1e2dSHtod2_YN&index=2&t=0s"
+          "url": "https://www.youtube.com/embed/Jyloz9Kx6k0"
         },
         {
           "titulo": "O Agente",
