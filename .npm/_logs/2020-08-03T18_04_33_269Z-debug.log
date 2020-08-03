@@ -11,8 +11,8 @@
 10 info lifecycle chopperflix@0.1.0~preserver: chopperflix@0.1.0
 11 info lifecycle chopperflix@0.1.0~server: chopperflix@0.1.0
 12 verbose lifecycle chopperflix@0.1.0~server: unsafe-perm in lifecycle true
-13 verbose lifecycle chopperflix@0.1.0~server: PATH: /usr/share/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/andersonlima/allflix/node_modules/.bin:/usr/share/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/andersonlima/allflix/node_modules/.bin:/home/andersonlima/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-14 verbose lifecycle chopperflix@0.1.0~server: CWD: /home/andersonlima/allflix
+13 verbose lifecycle chopperflix@0.1.0~server: PATH: /usr/share/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/andersonlima/imersao-react-alura-master/node_modules/.bin:/home/andersonlima/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+14 verbose lifecycle chopperflix@0.1.0~server: CWD: /home/andersonlima/imersao-react-alura-master
 15 silly lifecycle chopperflix@0.1.0~server: Args: [ '-c', 'node ./server.js' ]
 16 silly lifecycle chopperflix@0.1.0~server: Returned: code: 1  signal: null
 17 info lifecycle chopperflix@0.1.0~server: Failed to exec server script
@@ -25,7 +25,7 @@
 18 verbose stack     at maybeClose (internal/child_process.js:982:16)
 18 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
 19 verbose pkgid chopperflix@0.1.0
-20 verbose cwd /home/andersonlima/allflix
+20 verbose cwd /home/andersonlima/imersao-react-alura-master
 21 verbose Linux 5.4.40-04224-g891a6cce2d44
 22 verbose argv "/usr/bin/node" "/usr/bin/npm" "run" "server"
 23 verbose node v10.21.0

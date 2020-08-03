@@ -444,12 +444,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andersonlima/flixapp0-master" added="2020-08-03T17:53:49Z" modified="2020-08-03T17:53:49Z" visited="2020-08-03T17:53:49Z">
+  <bookmark href="file:///home/andersonlima/flixapp0-master" added="2020-08-03T17:53:49Z" modified="2020-08-03T18:05:19Z" visited="2020-08-03T17:53:49Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T17:53:49Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T18:05:19Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,0 +1,272 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git cat-file -s c4920b69ceb9a480fe342669873500319ac02321
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git cat-file -s c4920b69ceb9a480fe342669873500319ac02321
+> git status -z -u
+> git show --textconv :.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git cat-file -s c4920b69ceb9a480fe342669873500319ac02321
+> git show --textconv :.npm/_logs/2020-08-03T17_54_05_789Z-debug.log
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :flixapp0-master/package.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/package.json
+> git cat-file -s f84a80e0d772b51b09854b03b0d224d2f75e7abe
+> git show --textconv :flixapp0-master/package-lock.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/package-lock.json
+> git cat-file -s c72246652d40cfd977eb396842cf246d28df7fb4
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :flixapp0-master/src/App.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/App.js
+> git cat-file -s 212de3a797a655c30fced8702396e3bcb259e500
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :flixapp0-master/src/components/Carousel/components/VideoCard/index.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/components/Carousel/components/VideoCard/index.js
+> git cat-file -s 1c1c178cd8e133e8fdbb16e7654e58f612252b63
+> git show --textconv :flixapp0-master/src/components/Carousel/index.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/components/Carousel/index.js
+> git cat-file -s b93da76c3ad240353fdfc5ddd6bcfc5025aa91c2
+> git show --textconv :flixapp0-master/src/components/Carousel/styles.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/components/Carousel/styles.js
+> git cat-file -s ec33e8bc33e93f71ebf8babfe04921adf0515df6
+> git show --textconv :flixapp0-master/src/components/BannerMain/index.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/components/BannerMain/index.js
+> git cat-file -s b0113ae5cff7b71e4ed69f1be11de666f1d47688
+> git show --textconv :flixapp0-master/src/components/BannerMain/styles.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/components/BannerMain/styles.js
+> git cat-file -s dfe2f3f5af9f463f65d51f5cbbcaa990deca7358
+> git show --textconv :flixapp0-master/package-lock.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/package-lock.json
+> git cat-file -s c72246652d40cfd977eb396842cf246d28df7fb4
+> git show --textconv :flixapp0-master/yarn.lock
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/yarn.lock
+> git cat-file -s dce2876f9ef30558e1e8b7d6de900f81fdc21c69
+> git show --textconv :flixapp0-master/src/index.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/index.js
+> git cat-file -s c15f402930fea45e21700f946755964e3a10a554
+> git show --textconv :flixapp0-master/src/index.css
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/index.css
+> git cat-file -s c9c29435c3b76b532f0efc5c3d768d30350dea40
+> git show --textconv :flixapp0-master/src/App.js
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/App.js
+> git cat-file -s 212de3a797a655c30fced8702396e3bcb259e500
+> git check-ignore -v -z --stdin
+> git show --textconv :flixapp0-master/src/data/dados_iniciais.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/data/dados_iniciais.json
+> git cat-file -s c141b2e849acdc762681cf4bc0035a05d41a4a41
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/src/data/dados_iniciais.json
+> git cat-file -s c141b2e849acdc762681cf4bc0035a05d41a4a41
+> git show --textconv :flixapp0-master/src/data/dados_iniciais.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :flixapp0-master/public/index.html
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/public/index.html
+> git cat-file -s 0345aea0ac2c9f8f7598f9a99b49669a7ec74a1a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/public/index.html
+> git cat-file -s 0345aea0ac2c9f8f7598f9a99b49669a7ec74a1a
+> git show --textconv :flixapp0-master/public/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :flixapp0-master/public/manifest.json
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/public/manifest.json
+> git cat-file -s 91168d92299d906591b5c5152024d088dff179aa
+> git show --textconv :flixapp0-master/public/index.html
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/public/index.html
+> git cat-file -s 0345aea0ac2c9f8f7598f9a99b49669a7ec74a1a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- .

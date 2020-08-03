@@ -41,3 +41,16 @@ fatal: no upstream configured for branch 'master'
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.npm/_logs/2020-08-03T18_02_43_081Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T18_02_43_081Z-debug.log
