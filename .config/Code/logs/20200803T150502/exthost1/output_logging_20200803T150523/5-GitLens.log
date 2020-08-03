@@ -1,0 +1,1 @@
+[2020-08-03 18:38:28:404] [/home/andersonlima] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --abbrev-ref --symbolic-full-name @ @{u} -- • no upstream configured for branch 'master' • 45 ms 

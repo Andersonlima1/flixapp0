@@ -91,8 +91,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -655,8 +654,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1711,11 +1709,11 @@
             "folder": "file:///home/andersonlima/flixapp0-master",
             "backupPath": "/home/andersonlima/.config/Code/Backups/fa26c7bafd91c70c512785f2d0cc2044",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 0,
-                "y": 37,
-                "width": 1479,
-                "height": 759
+                "y": 38,
+                "width": 1477,
+                "height": 755
             }
         },
         "openedWindows": []

@@ -414,3 +414,54 @@ fatal: no upstream configured for branch 'master'
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git pull --tags
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git branch -d master
+error: Cannot delete branch 'master' checked out at '/home/andersonlima'
+> git branch -d master
+error: Cannot delete branch 'master' checked out at '/home/andersonlima'
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/User/workspaceStorage/0543f99b2cb1dae0b1a6b476b1dacea2/state.vscdb
+> git show --textconv :flixapp0-master/public/index.html
+> git ls-files --stage -- /home/andersonlima/flixapp0-master/public/index.html
+> git cat-file -s 62fec1b3ab3929ca10634b86bb72d7722e31ab46
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.config/Code/storage.json
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/storage.json
+> git add -A -- .
