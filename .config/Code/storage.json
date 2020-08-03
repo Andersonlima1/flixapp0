@@ -2,9 +2,10 @@
     "telemetry.machineId": "e985c3c6439e57aee734d6f66384a2d7bd28a59f0601c9cdd2daa3ce4903f1d1",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/andersonlima/imersao-react-alura-master",
+            "file:///home/andersonlima/flixapp0-master",
             "file:///home/andersonlima/allflix",
             "file:///home/andersonlima/anderson%20git%20js/anderson",
-            "file:///home/andersonlima/imersao-react-alura-master",
             "file:///home/andersonlima",
             "file:///home",
             "file:///home/andersonlima/something/",
@@ -90,7 +91,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -99,7 +101,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/andersonlima/allflix",
+                                        "fsPath": "/home/andersonlima/imersao-react-alura-master",
+                                        "external": "file:///home/andersonlima/imersao-react-alura-master",
+                                        "path": "/home/andersonlima/imersao-react-alura-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/imersao-react-alura-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/andersonlima/flixapp0-master",
+                                        "path": "/home/andersonlima/flixapp0-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/flixapp0-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/andersonlima/allflix",
                                         "path": "/home/andersonlima/allflix",
                                         "scheme": "file"
@@ -117,17 +141,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/anderson git js/anderson"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andersonlima/imersao-react-alura-master",
-                                        "path": "/home/andersonlima/imersao-react-alura-master",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/imersao-react-alura-master"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -194,17 +207,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/django_project/django_projeto"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/andersonlima/teste9/test9",
-                                        "path": "/home/andersonlima/teste9/test9",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/teste9/test9"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -352,7 +354,8 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
@@ -425,7 +428,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -653,8 +657,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -829,7 +832,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -838,7 +842,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1706,40 +1711,17 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/andersonlima/allflix",
-            "backupPath": "/home/andersonlima/.config/Code/Backups/85cde6e03c1bca474d5f5f57bd722b7f",
+            "folder": "file:///home/andersonlima/imersao-react-alura-master",
+            "backupPath": "/home/andersonlima/.config/Code/Backups/a96ab7aae400f0aad1fb65ec6ab768da",
             "uiState": {
                 "mode": 0,
                 "x": 0,
-                "y": 37,
-                "width": 1479,
-                "height": 759
+                "y": 38,
+                "width": 1477,
+                "height": 755
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/andersonlima/anderson%20git%20js/anderson",
-                "backupPath": "/home/andersonlima/.config/Code/Backups/d2e6de2bd13309be2932541ed2d7352a",
-                "uiState": {
-                    "mode": 1,
-                    "x": 223,
-                    "y": 38,
-                    "width": 1031,
-                    "height": 755
-                }
-            },
-            {
-                "folder": "file:///home/andersonlima/allflix",
-                "backupPath": "/home/andersonlima/.config/Code/Backups/85cde6e03c1bca474d5f5f57bd722b7f",
-                "uiState": {
-                    "mode": 0,
-                    "x": 0,
-                    "y": 37,
-                    "width": 1479,
-                    "height": 759
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "pickerWorkingDir": "/home/andersonlima"
 }

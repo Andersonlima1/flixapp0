@@ -370,3 +370,11 @@ git push -u origin master
 npm start
 npm start
 npm react
+npm start
+npm start
+node start
+npm start
+npm install
+npm start
+npm install
+npm start

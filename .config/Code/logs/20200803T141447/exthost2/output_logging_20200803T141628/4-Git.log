@@ -191,3 +191,414 @@ Use '--' to separate paths from revisions, like this:
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git fetch
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git status -z -u
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :server.js
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git remote add lk https://github.com/Andersonlima1/ALLFLIX.git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push lk master
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+To https://github.com/Andersonlima1/ALLFLIX.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Andersonlima1/ALLFLIX.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+warning: adding embedded git repository: allflix
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> allflix
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached allflix
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: anderson git js/anderson
+> git commit --quiet --allow-empty-message --file -
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin master
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+From https://github.com/Andersonlima1/flixapp0
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :server.js
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git show --textconv HEAD:src/App.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git push ALLFLIX master
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+To https://github.com/Andersonlima1/ALLFLIX
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Andersonlima1/ALLFLIX'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git fetch
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git show --textconv HEAD:src/App.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git fetch
+> git status -z -u
+> git status -z -u
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git show --textconv HEAD:src/App.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv :server.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/andersonlima/allflix/server.js
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:allflix oficial/package.json
+> git ls-tree -l HEAD -- /home/andersonlima/allflix oficial/package.json
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.config/Code/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/User/globalStorage/state.vscdb
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/User/globalStorage/state.vscdb
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.config/Code/logs/20200803T141447/exthost2/exthost.log
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/logs/20200803T141447/exthost2/exthost.log
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.config/Code/logs/20200803T141447/exthost2/output_logging_20200803T141628/4-Git.log
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/logs/20200803T141447/exthost2/output_logging_20200803T141628/4-Git.log
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.config/Code/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/Cache/index-dir/the-real-index
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/Cache/index-dir/the-real-index
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/.config/Code/Cache/index-dir/the-real-index
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/andersonlima/.config/Code/Cache/index-dir/the-real-index
+> git show --textconv :server.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git check-ignore -v -z --stdin
+> git show --textconv :server.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv :.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git cat-file -s 413f9a2a81fec9ccdb10d4840dd64bf709b9c14a
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git cat-file -s 6832e7832bb9d3f06d1a7e7f18567ee6f524873d
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git cat-file -s 6832e7832bb9d3f06d1a7e7f18567ee6f524873d
+> git show --textconv :src/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git symbolic-ref --short HEAD
+> git cat-file -s 6832e7832bb9d3f06d1a7e7f18567ee6f524873d
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/index.js
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git cat-file -s 6832e7832bb9d3f06d1a7e7f18567ee6f524873d
+> git show --textconv :src/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.npm/_logs/2020-08-03T17_46_15_937Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_46_15_937Z-debug.log
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

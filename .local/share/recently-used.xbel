@@ -434,12 +434,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/andersonlima/imersao-react-alura-master" added="2020-08-03T16:55:26Z" modified="2020-08-03T16:55:26Z" visited="2020-08-03T16:55:27Z">
+  <bookmark href="file:///home/andersonlima/imersao-react-alura-master" added="2020-08-03T16:55:26Z" modified="2020-08-03T17:59:06Z" visited="2020-08-03T16:55:27Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T16:55:26Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T17:59:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/flixapp0-master" added="2020-08-03T17:53:49Z" modified="2020-08-03T17:53:49Z" visited="2020-08-03T17:53:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T17:53:49Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
