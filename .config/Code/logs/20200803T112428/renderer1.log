@@ -1,0 +1,16 @@
+[2020-08-03 12:30:00.991] [renderer1] [error] Unable to resolve non-existing file '/home/andersonlima/allflix/public/%PUBLIC_URL%/favicon.ico': EntryNotFound (FileSystemError): Unable to resolve non-existing file '/home/andersonlima/allflix/public/%PUBLIC_URL%/favicon.ico'
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:657:25)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-08-03 12:36:50.533] [renderer1] [error] Cannot read property 'markers' of undefined: TypeError: Cannot read property 'markers' of undefined
+    at K.setTreeSelection (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:728)
+    at K.refreshPanel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:569)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:411)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915

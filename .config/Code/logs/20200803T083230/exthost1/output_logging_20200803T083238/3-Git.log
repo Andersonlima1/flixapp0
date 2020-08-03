@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git remote add ok git remote add origin https://github.com/Andersonlima1/ALLFLIX.git
+> git remote add ALLFLIX https://github.com/Andersonlima1/ALLFLIX
+> git remote add allflix https://github.com/Andersonlima1/ALLFLIX
+> git remote add allflix https://github.com/Andersonlima1/ALLFLIX.git
+fatal: remote allflix already exists.
+> git remote add ALLFLIX https://github.com/Andersonlima1/ALLFLIX.git
+fatal: remote ALLFLIX already exists.

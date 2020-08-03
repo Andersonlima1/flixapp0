@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+From https://github.com/Andersonlima1/ALLFLIX
+ * [new branch]      master     -> origin/master
+> git check-ignore -v -z --stdin
+> git remote add origin https://github.com/Andersonlima1/flixapp01.git
+fatal: remote origin already exists.
+> git remote add remote-name https://github.com/Andersonlima1/flixapp0.git

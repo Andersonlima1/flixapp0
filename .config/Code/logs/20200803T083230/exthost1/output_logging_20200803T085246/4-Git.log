@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git remote add ALLFLIX https://github.com/Andersonlima1/ALLFLIX
+fatal: remote ALLFLIX already exists.
+> git remote add something https://github.com/Andersonlima1/ALLFLIX
+> git remote add app https://github.com/Andersonlima1/ALLFLIX.git
+> git check-ignore -v -z --stdin

@@ -1,0 +1,5 @@
+[2020-08-03 14:16:26.824] [renderer2] [error] Error: Unable to read file '/home/andersonlima/allflix/src/components/Carousel/components/VideoCard/index.js' (Error: Unable to resolve non-existing file '/home/andersonlima/allflix/src/components/Carousel/components/VideoCard/index.js')
+    at Object.t.createErrorWithActions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:207)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5717:168)
+    at w.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5719:772)
+    at w.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5716:869)

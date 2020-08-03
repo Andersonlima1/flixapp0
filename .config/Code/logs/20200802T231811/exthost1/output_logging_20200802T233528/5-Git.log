@@ -1,0 +1,368 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :allflix/src/components/Button/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Button/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :allflix/src/index.css
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.css
+> git show --textconv :allflix/src/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/App.js
+> git fetch
+> git status -z -u
+> git ls-files --stage -- /home/andersonlima/allflix/src/App.js
+> git show --textconv :allflix/src/App.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/App.js
+> git show --textconv :allflix/src/App.js
+> git show --textconv :allflix/public/index.html
+> git ls-files --stage -- /home/andersonlima/allflix/public/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/index.css
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.css
+> git show --textconv :allflix/src/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/components/BannerMain/components/VideoIframeResponsive/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/components/VideoIframeResponsive/index.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/components/VideoIframeResponsive/index.js
+> git show --textconv :allflix/src/components/BannerMain/components/VideoIframeResponsive/index.js
+> git show --textconv :allflix/src/components/BannerMain/components/VideoIframeResponsive/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/components/VideoIframeResponsive/styles.js
+> git show --textconv :allflix/src/components/BannerMain/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/index.js
+> git show --textconv :allflix/src/components/Button/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Button/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/components/Carousel/components/VideoCard/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/components/VideoCard/index.js
+> git show --textconv :allflix/src/components/BannerMain/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/index.js
+> git show --textconv :allflix/src/components/BannerMain/components/VideoIframeResponsive/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/BannerMain/components/VideoIframeResponsive/styles.js
+> git show --textconv :allflix/src/components/Carousel/components/VideoCard/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/components/VideoCard/index.js
+> git show --textconv :allflix/src/components/Carousel/components/VideoCard/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/components/VideoCard/styles.js
+> git show --textconv :allflix/src/components/Carousel/components/VideoCard/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/components/VideoCard/index.js
+> git show --textconv :allflix/src/components/Carousel/components/VideoCard/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/components/VideoCard/styles.js
+> git show --textconv :allflix/src/components/Carousel/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/index.js
+> git show --textconv :allflix/src/components/Carousel/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Carousel/styles.js
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/components/Footer/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Footer/index.js
+> git show --textconv :allflix/src/components/Footer/styles.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Footer/styles.js
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/components/Menu/components/ButtonLink/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Menu/components/ButtonLink/index.js
+> git show --textconv :allflix/src/components/Menu/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Menu/index.js
+> git show --textconv :allflix/src/components/Menu/Menu.css
+> git ls-files --stage -- /home/andersonlima/allflix/src/components/Menu/Menu.css
+> git check-ignore -v -z --stdin
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git config --get commit.template
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/andersonlima/allflix/src/data/dados_iniciais.json
+> git show --textconv :allflix/src/data/dados_iniciais.json

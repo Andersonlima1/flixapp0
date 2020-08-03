@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima/anderson git js/anderson
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :.vscode/settings.json
+> git ls-files --stage -- /home/andersonlima/anderson git js/anderson/.vscode/settings.json
+> git cat-file -s 615aafb035a1f363f614a893635f9d40d63ba911

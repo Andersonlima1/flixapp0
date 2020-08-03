@@ -1,0 +1,23 @@
+.default-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.default-form > .input-wrapper {
+  margin-bottom: 10px;
+}
+
+.controls-wrapper {
+  display: flex;
+  width: 100%;
+}
+
+.categories-button {
+  margin-right: auto;
+}
+
+.submit-button {
+  margin-left: auto;
+}

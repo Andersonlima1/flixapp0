@@ -1,0 +1,36 @@
+{
+	"name": "os-x-flat-dark",
+	"displayName": "OS X Flat Dark",
+	"description": "Port of the OS X Flat Dark theme for Brackets.",
+	"version": "1.0.0",
+	"publisher": "nick-james",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/omniomi/theme-osxflatdark.git"
+	},
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#1F1F21",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "OS X Flat Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OS X Flat Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6fbe1c5b-313f-44be-8798-8c6177275b8b",
+		"publisherId": "1e990131-adcc-4a6b-a470-0e7245efe02e",
+		"publisherDisplayName": "nick-james"
+	}
+}

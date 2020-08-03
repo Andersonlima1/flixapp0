@@ -1,0 +1,193 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima/allflix
+> git fetch
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git cat-file -s c15f402930fea45e21700f946755964e3a10a554
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/public/logo192.png
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/public/logo192.png
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/public/logo512.png
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/public/logo512.png
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/App.js
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git fetch
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git show --textconv HEAD:src/App.js
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git show --textconv HEAD:src/App.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git check-ignore -v -z --stdin
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/andersonlima/allflix/src/index.js
+> git cat-file -s c15f402930fea45e21700f946755964e3a10a554
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/andersonlima
+> git fetch
+> git status -z -u
+> git show --textconv :.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git show --textconv HEAD:src/App.js
+> git show --textconv :.npm/_logs/2020-08-03T17_20_52_726Z-debug.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :server.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git config --get commit.template
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/andersonlima/allflix/src/App.js
+> git ls-files --stage -- /home/andersonlima/allflix/server.js
+> git check-ignore -v -z --stdin
+> git cat-file -s 38c03ff20ec35cca0c00442fe3619a43f5aff474
+> git show --textconv HEAD:src/App.js
+> git show --textconv :server.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .

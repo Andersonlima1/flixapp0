@@ -1,0 +1,534 @@
+2020-07-29, 10:04:18.678 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.679 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.679 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.679 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.691 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.691 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.692 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.692 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.698 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:18.722 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:04:19.091 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.104 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "")
+2020-07-29, 10:04:19.117 [Debug  ] [                                                         0] ConfigSettings: "arrow" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.131 [Debug  ] [                                                         0] ConfigSettings: "arrow" "arrow_linewidth_index" QVariant(int, 1)
+2020-07-29, 10:04:19.146 [Debug  ] [                                                         0] ConfigSettings: "arrow" "straightline_linewidth_index" QVariant(int, 1)
+2020-07-29, 10:04:19.161 [Debug  ] [                                                         0] ConfigSettings: "arrow" "is_straight" QVariant(bool, false)
+2020-07-29, 10:04:19.175 [Debug  ] [                                                         0] ConfigSettings: "oval" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.190 [Debug  ] [                                                         0] ConfigSettings: "oval" "linewidth_index" QVariant(int, 1)
+2020-07-29, 10:04:19.205 [Debug  ] [                                                         0] ConfigSettings: "line" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.220 [Debug  ] [                                                         0] ConfigSettings: "line" "linewidth_index" QVariant(int, 1)
+2020-07-29, 10:04:19.234 [Debug  ] [                                                         0] ConfigSettings: "rectangle" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.247 [Debug  ] [                                                         0] ConfigSettings: "rectangle" "linewidth_index" QVariant(int, 1)
+2020-07-29, 10:04:19.264 [Debug  ] [                                                         0] ConfigSettings: "text" "color_index" QVariant(int, 3)
+2020-07-29, 10:04:19.281 [Debug  ] [                                                         0] ConfigSettings: "text" "fontsize" QVariant(int, 12)
+2020-07-29, 10:04:19.299 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(int, 0)
+2020-07-29, 10:04:19.315 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:04:19.333 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:04:19.348 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:04:19.349 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:04:19.352 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:04:19.425 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:04:19.431 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:04:26.456 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:04:31.373 [Debug  ] [                                                         0] subToolBar shape: "color"
+2020-07-29, 10:04:35.029 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:04:35.029 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:04:35.132 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:04:35.520 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:04:35.520 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:04:35.534 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/andersonlima/Desktop")
+2020-07-29, 10:04:54.605 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.606 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.606 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.606 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.617 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.618 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.618 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.618 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.623 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:04:54.654 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:04:55.479 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:04:55.485 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:04:55.485 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:04:55.487 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:04:55.520 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:04:55.527 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:05:03.404 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:05:10.712 [Debug  ] [                                                         0] subToolBar shape: "saveList"
+2020-07-29, 10:05:10.712 [Debug  ] [                                                         0] show shapesWidget
+2020-07-29, 10:05:10.724 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.596 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.630 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.641 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.648 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.745 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.755 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:11.832 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.039 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.111 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.138 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.155 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.168 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.184 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.202 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.218 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.233 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.252 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.265 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.281 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.299 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.314 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.330 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:12.346 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.896 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.919 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.933 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.950 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.965 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.971 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.982 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:13.999 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.014 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.018 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.030 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.045 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.062 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.077 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.082 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.093 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.110 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.746 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.819 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.855 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.871 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.889 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.902 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.907 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:14.984 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.090 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.109 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.121 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.127 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.143 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.159 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.176 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.191 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.207 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.222 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.238 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.254 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.271 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:15.304 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.558 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.592 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.606 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.617 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.634 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.650 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.671 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.681 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.702 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.717 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.729 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.746 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:17.763 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.171 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.206 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.221 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.238 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.255 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.270 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.286 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.302 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.318 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.334 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.350 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.365 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.382 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.399 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:18.414 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:20.884 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:20.893 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:20.904 [Debug  ] [                                                         0] saveButtonList: 2
+2020-07-29, 10:05:20.931 [Debug  ] [                                                         0] updateSelectedShapes -1 0 -1
+2020-07-29, 10:05:20.931 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(int, 2)
+2020-07-29, 10:05:20.932 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:05:20.932 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:05:20.933 [Debug  ] [                                                         0] ShapesWidget saveActionTriggered!
+2020-07-29, 10:05:20.933 [Debug  ] [                                                         0] clear selected!!!
+2020-07-29, 10:05:20.971 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:05:21.055 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:05:21.473 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:05:21.474 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:05:25.737 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/andersonlima")
+2020-07-29, 10:05:25.888 [Debug  ] [                                                         0] saveFilePath: "/home/andersonlima/DeepinScreenshot_select-area_20200729100521.png"
+2020-07-29, 10:06:12.949 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.949 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.949 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.950 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.958 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.959 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.959 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.959 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.962 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:06:12.987 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:06:13.332 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:06:13.337 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:06:13.337 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:06:13.339 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:06:13.361 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:06:13.363 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:06:27.440 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:06:33.321 [Debug  ] [                                                         0] subToolBar shape: "color"
+2020-07-29, 10:06:35.287 [Debug  ] [                                                         0] updatePaintColor: QColor(ARGB 1, 1, 0.109804, 0.286275)
+2020-07-29, 10:06:35.311 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2020-07-29, 10:06:36.343 [Debug  ] [                                                         0] updatePaintColor: QColor(ARGB 1, 1, 0.109804, 0.286275)
+2020-07-29, 10:06:36.361 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2020-07-29, 10:06:36.783 [Debug  ] [                                                         0] updatePaintColor: QColor(ARGB 1, 1, 0.109804, 0.286275)
+2020-07-29, 10:06:36.799 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2020-07-29, 10:06:36.991 [Debug  ] [                                                         0] updatePaintColor: QColor(ARGB 1, 1, 0.109804, 0.286275)
+2020-07-29, 10:06:37.018 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2020-07-29, 10:08:02.060 [Debug  ] [                                                         0] subToolBar shape: "saveList"
+2020-07-29, 10:08:02.061 [Debug  ] [                                                         0] show shapesWidget
+2020-07-29, 10:08:02.074 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:02.690 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:02.700 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.346 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.355 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.369 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.378 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.400 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.416 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.432 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.449 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.465 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.480 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.496 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.512 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.528 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.544 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.560 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.576 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.592 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.609 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.876 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.901 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.916 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.932 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.948 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.964 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.980 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:03.997 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.012 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.028 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.044 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.061 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.076 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:04.093 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.064 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.099 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.117 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.131 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.146 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.164 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.181 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.194 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.209 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.226 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.242 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.257 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.274 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.289 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:05.306 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.142 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.170 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.188 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.202 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.218 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.234 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.250 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.265 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.284 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.299 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.314 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.331 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.347 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.363 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.636 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.669 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.685 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.701 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.718 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.735 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.749 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.766 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.782 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.797 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.813 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.829 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.839 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.845 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.862 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.878 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.894 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.909 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.925 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.941 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.958 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.974 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:07.991 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:08.010 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:08.029 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.183 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.214 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.231 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.247 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.262 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.279 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.295 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.318 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.329 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.343 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.359 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.375 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.390 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.406 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.423 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.459 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.484 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.500 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.515 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.531 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.547 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.564 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.580 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.597 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.611 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.628 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.643 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:09.659 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:10.319 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:10.330 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:10.340 [Debug  ] [                                                         0] saveButtonList: 3
+2020-07-29, 10:08:10.358 [Debug  ] [                                                         0] updateSelectedShapes -1 0 -1
+2020-07-29, 10:08:10.358 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(int, 3)
+2020-07-29, 10:08:10.359 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:08:10.359 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:08:10.359 [Debug  ] [                                                         0] ShapesWidget saveActionTriggered!
+2020-07-29, 10:08:10.359 [Debug  ] [                                                         0] clear selected!!!
+2020-07-29, 10:08:10.396 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:08:10.484 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:08:10.842 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:08:10.843 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:08:10.854 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "clipboard")
+2020-07-29, 10:08:10.898 [Debug  ] [                                                         0] saveFilePath: ""
+2020-07-29, 10:09:34.208 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.209 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.209 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.210 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.218 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.218 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.218 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.219 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.221 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:34.251 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:09:34.805 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:09:34.811 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:09:34.811 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:09:34.812 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:09:34.837 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:09:34.839 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:09:44.967 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:09:45.146 [Debug  ] [                                                         0] specificedPath isEmpty!
+2020-07-29, 10:09:45.148 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:09:45.149 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:09:45.251 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:09:45.717 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:09:45.718 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:09:45.745 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "clipboard")
+2020-07-29, 10:09:45.801 [Debug  ] [                                                         0] saveFilePath: ""
+2020-07-29, 10:09:54.903 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.903 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.903 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.903 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.910 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.910 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.911 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.911 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.914 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:09:54.937 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:09:55.296 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:09:55.302 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:09:55.303 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:09:55.311 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:09:55.357 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:09:55.358 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:09:56.095 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:09:58.495 [Debug  ] [                                                         0] subToolBar shape: "saveList"
+2020-07-29, 10:09:58.495 [Debug  ] [                                                         0] show shapesWidget
+2020-07-29, 10:09:58.503 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:58.834 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:58.858 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:58.875 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:58.895 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:58.927 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.006 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.254 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.295 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.330 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.345 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.367 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.384 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.398 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.408 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.417 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.433 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.450 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.468 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.483 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.499 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.514 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.530 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.546 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.773 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.807 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.823 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.840 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.856 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.871 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.888 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.903 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.920 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.935 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.953 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.968 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:09:59.983 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.016 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.526 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.559 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.574 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.590 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.606 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.622 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.638 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.655 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.671 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.686 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.702 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.718 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:00.735 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.264 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.298 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.313 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.329 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.346 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.362 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.378 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.393 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.409 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.425 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.442 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.457 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.473 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.489 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:01.505 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:02.019 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:02.031 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:02.040 [Debug  ] [                                                         0] saveButtonList: 2
+2020-07-29, 10:10:02.058 [Debug  ] [                                                         0] updateSelectedShapes -1 0 -1
+2020-07-29, 10:10:02.060 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(int, 2)
+2020-07-29, 10:10:02.060 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:10:02.060 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:10:02.060 [Debug  ] [                                                         0] ShapesWidget saveActionTriggered!
+2020-07-29, 10:10:02.060 [Debug  ] [                                                         0] clear selected!!!
+2020-07-29, 10:10:02.095 [Debug  ] [                                                         0] hoveredShape type: ""
+2020-07-29, 10:10:02.179 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:10:02.597 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:10:02.598 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:10:10.104 [Warning] [                                                         0] The fileName has invalid suffix! "hh.png" "/home/andersonlima/.hh.png"
+2020-07-29, 10:10:18.357 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.357 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.357 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.357 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.365 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.365 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.365 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.365 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.369 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:18.396 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:10:18.771 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:10:18.781 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:10:18.781 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:10:18.786 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:10:18.817 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:10:18.818 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:10:34.208 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:10:37.830 [Debug  ] [                                                         0] SDGF: ctrl+z !!!
+2020-07-29, 10:10:47.455 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.456 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.456 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.456 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.464 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.464 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.465 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.466 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.469 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:10:47.497 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:10:47.825 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:10:47.833 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:10:47.834 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:10:47.836 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:10:47.868 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:10:47.870 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:11:02.572 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:11:04.745 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:11:04.749 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:11:04.852 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:11:05.319 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:11:05.319 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:11:10.799 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/andersonlima")
+2020-07-29, 10:11:10.989 [Debug  ] [                                                         0] saveFilePath: "/home/andersonlima/tutorial1.png"
+2020-07-29, 10:13:46.049 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.049 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.054 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.055 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.058 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.060 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.069 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.070 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.075 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.080 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:13:46.109 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:13:46.459 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:13:46.474 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:13:46.474 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:13:46.478 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:13:46.518 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:13:46.520 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:14:08.714 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:14:52.267 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:14:52.271 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:14:52.374 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2020-07-29, 10:14:52.822 [Debug  ] [                                                         0] release event !!!
+2020-07-29, 10:14:52.822 [Debug  ] [                                                         0] keyboardGrabbed: true
+2020-07-29, 10:14:55.500 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/andersonlima")
+2020-07-29, 10:14:55.652 [Debug  ] [                                                         0] saveFilePath: "/home/andersonlima/DeepinScreenshot_select-area_20200729101452.png"
+2020-07-29, 10:18:10.161 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.161 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.161 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.162 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.169 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.169 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.169 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.169 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.172 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2020-07-29, 10:18:10.196 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2020-07-29, 10:18:10.616 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2020-07-29, 10:18:10.625 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2020-07-29, 10:18:10.625 [Debug  ] [                                                         0] Setting file: "/home/andersonlima/.config/deepin/deepin-screenshot.conf"
+2020-07-29, 10:18:10.627 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2020-07-29, 10:18:10.670 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2020-07-29, 10:18:10.685 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2020-07-29, 10:19:20.310 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2020-07-29, 10:19:22.513 [Debug  ] [                                                         0] Key_Escape pressed: app quit!

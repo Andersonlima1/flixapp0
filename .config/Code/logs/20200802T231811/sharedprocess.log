@@ -1,0 +1,8 @@
+[2020-08-02 23:18:16.317] [sharedprocess] [info] main {"machineId":"e985c3c6439e57aee734d6f66384a2d7bd28a59f0601c9cdd2daa3ce4903f1d1","windowId":2}
+[2020-08-02 23:18:56.345] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-02 23:30:25.785] [sharedprocess] [info] Installing extension: jpoissonnier.vscode-styled-components
+[2020-08-02 23:30:27.951] [sharedprocess] [info] Downloaded extension: jpoissonnier.vscode-styled-components /home/andersonlima/.config/Code/CachedExtensionVSIXs/jpoissonnier.vscode-styled-components-0.0.29
+[2020-08-02 23:30:31.227] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.jpoissonnier.vscode-styled-components-0.0.29: jpoissonnier.vscode-styled-components
+[2020-08-02 23:30:31.228] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/jpoissonnier.vscode-styled-components-0.0.29
+[2020-08-02 23:30:31.236] [sharedprocess] [info] Installation completed. jpoissonnier.vscode-styled-components
+[2020-08-02 23:30:31.265] [sharedprocess] [info] Extensions installed successfully: jpoissonnier.vscode-styled-components

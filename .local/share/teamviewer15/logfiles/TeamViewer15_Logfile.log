@@ -1,0 +1,458 @@
+2020/07/28 20:03:48.683  4528 139405823947392 G   Logger started.
+2020/07/28 20:03:48.685  4528 139405823947392 G   Found 0 stack dump files ...
+2020/07/28 20:03:48.685  4528 139405823947392 G   Found 0 core dump files ...
+2020/07/28 20:03:48.686  4528 139405823947392 G   systemd: logind service available
+2020/07/28 20:03:48.688  4528 139405823947392 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:03:48.689  4528 139405823947392 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:03:48.690  4528 139405823947392 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:03:48.690  4528 139405823947392 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:03:48.690  4528 139405823947392 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:03:48.690  4528 139405823947392 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:03:48.690  4528 139405561943808 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:03:48.692  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.692  4528 139405823947392 G   Running on Qt 5.11.3
+2020/07/28 20:03:48.914  4528 139405823947392 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:03:48.914  4528 139405823947392 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:03:48.914  4528 139405823947392 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:03:48.914  4528 139405823947392 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:03:48.914  4528 139405823947392 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:03:48.914  4528 139405823947392 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:03:48.925  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.929  4528 139405823947392 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:03:48.930  4528 139405823947392 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:03:48.930  4528 139405823947392 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:03:48.931  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.932  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.934  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.935  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.936  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.937  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.937  4528 139405823947392 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:03:48.937  4528 139405823947392 G   AccountLoginStateMachine::Reset
+2020/07/28 20:03:48.939  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.939  4528 139405823947392 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:03:48.940  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.940  4528 139405823947392 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:03:48.941  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.941  4528 139405823947392 G   Chat::Stop: Stopping chat
+2020/07/28 20:03:48.942  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.943  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.944  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.945  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.946  4528 139405823947392 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:03:48.947  4528 139405823947392 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:03:48.947  4528 139405823947392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:03:48.947  4528 139405823947392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:03:48.947  4528 139405823947392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:03:48.947  4528 139405823947392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:03:48.947  4528 139405823947392 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:03:48.947  4528 139405823947392 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:03:48.951  4528 139405823947392 G   Shutting down DBus IOHandler
+2020/07/28 20:04:07.547  4581 139072409002624 G   Logger started.
+2020/07/28 20:04:07.549  4581 139072409002624 G   Found 0 stack dump files ...
+2020/07/28 20:04:07.549  4581 139072409002624 G   Found 0 core dump files ...
+2020/07/28 20:04:07.554  4581 139072409002624 G   systemd: logind service available
+2020/07/28 20:04:07.557  4581 139072409002624 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:04:07.558  4581 139072409002624 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:04:07.562  4581 139072409002624 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:04:07.562  4581 139072409002624 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:04:07.562  4581 139072409002624 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:04:07.562  4581 139072409002624 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:04:07.563  4581 139072352900864 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:04:07.566  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.567  4581 139072409002624 G   Running on Qt 5.11.3
+2020/07/28 20:04:07.730  4581 139072409002624 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:04:07.730  4581 139072409002624 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:07.730  4581 139072409002624 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:07.730  4581 139072409002624 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:07.730  4581 139072409002624 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:07.730  4581 139072409002624 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:04:07.735  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.736  4581 139072409002624 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:04:07.739  4581 139072409002624 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:04:07.739  4581 139072409002624 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:04:07.739  4581 139072409002624 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:04:07.741  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.743  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.744  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.746  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.747  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.748  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.748  4581 139072409002624 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:04:07.748  4581 139072409002624 G   AccountLoginStateMachine::Reset
+2020/07/28 20:04:07.750  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.750  4581 139072409002624 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:04:07.751  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.751  4581 139072409002624 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:04:07.753  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.753  4581 139072409002624 G   Chat::Stop: Stopping chat
+2020/07/28 20:04:07.755  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.757  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.758  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.759  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.760  4581 139072409002624 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:07.760  4581 139072409002624 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:04:07.760  4581 139072409002624 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:04:07.760  4581 139072409002624 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:04:07.760  4581 139072409002624 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:04:07.760  4581 139072409002624 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:04:07.760  4581 139072409002624 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:04:07.760  4581 139072409002624 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:04:07.767  4581 139072409002624 G   Shutting down DBus IOHandler
+2020/07/28 20:04:19.831  4632 133745591214720 G   Logger started.
+2020/07/28 20:04:19.833  4632 133745591214720 G   Found 0 stack dump files ...
+2020/07/28 20:04:19.833  4632 133745591214720 G   Found 0 core dump files ...
+2020/07/28 20:04:19.834  4632 133745591214720 G   systemd: logind service available
+2020/07/28 20:04:19.835  4632 133745591214720 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:04:19.836  4632 133745591214720 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:04:19.837  4632 133745591214720 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:04:19.837  4632 133745591214720 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:04:19.837  4632 133745591214720 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:04:19.837  4632 133745331918592 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:04:19.837  4632 133745591214720 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:04:19.838  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.839  4632 133745591214720 G   Running on Qt 5.11.3
+2020/07/28 20:04:19.945  4632 133745591214720 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:04:19.945  4632 133745591214720 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:19.945  4632 133745591214720 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:19.945  4632 133745591214720 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:19.945  4632 133745591214720 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:19.945  4632 133745591214720 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:04:19.950  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.951  4632 133745591214720 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:04:19.954  4632 133745591214720 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:04:19.954  4632 133745591214720 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:04:19.954  4632 133745591214720 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:04:19.955  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.956  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.958  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.958  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.959  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.960  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.960  4632 133745591214720 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:04:19.960  4632 133745591214720 G   AccountLoginStateMachine::Reset
+2020/07/28 20:04:19.962  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.962  4632 133745591214720 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:04:19.963  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.963  4632 133745591214720 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:04:19.964  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.964  4632 133745591214720 G   Chat::Stop: Stopping chat
+2020/07/28 20:04:19.965  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.966  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.967  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.968  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.969  4632 133745591214720 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:19.969  4632 133745591214720 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:04:19.969  4632 133745591214720 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:04:19.969  4632 133745591214720 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:04:19.969  4632 133745591214720 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:04:19.969  4632 133745591214720 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:04:19.969  4632 133745591214720 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:04:19.969  4632 133745591214720 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:04:19.973  4632 133745591214720 G   Shutting down DBus IOHandler
+2020/07/28 20:04:20.705  4683 136999835681408 G   Logger started.
+2020/07/28 20:04:20.706  4683 136999835681408 G   Found 0 stack dump files ...
+2020/07/28 20:04:20.706  4683 136999835681408 G   Found 0 core dump files ...
+2020/07/28 20:04:20.707  4683 136999835681408 G   systemd: logind service available
+2020/07/28 20:04:20.709  4683 136999835681408 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:04:20.710  4683 136999835681408 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:04:20.711  4683 136999835681408 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:04:20.711  4683 136999835681408 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:04:20.711  4683 136999835681408 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:04:20.711  4683 136999835681408 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:04:20.711  4683 136999574951680 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:04:20.712  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.712  4683 136999835681408 G   Running on Qt 5.11.3
+2020/07/28 20:04:20.822  4683 136999835681408 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:04:20.822  4683 136999835681408 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:20.822  4683 136999835681408 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:20.823  4683 136999835681408 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:20.823  4683 136999835681408 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:20.823  4683 136999835681408 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:04:20.828  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.830  4683 136999835681408 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:04:20.832  4683 136999835681408 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:04:20.832  4683 136999835681408 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:04:20.832  4683 136999835681408 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:04:20.834  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.835  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.836  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.837  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.838  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.839  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.839  4683 136999835681408 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:04:20.839  4683 136999835681408 G   AccountLoginStateMachine::Reset
+2020/07/28 20:04:20.841  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.841  4683 136999835681408 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:04:20.842  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.842  4683 136999835681408 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:04:20.843  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.843  4683 136999835681408 G   Chat::Stop: Stopping chat
+2020/07/28 20:04:20.844  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.845  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.846  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.847  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.848  4683 136999835681408 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:20.848  4683 136999835681408 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:04:20.848  4683 136999835681408 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:04:20.848  4683 136999835681408 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:04:20.848  4683 136999835681408 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:04:20.848  4683 136999835681408 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:04:20.848  4683 136999835681408 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:04:20.848  4683 136999835681408 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:04:20.853  4683 136999835681408 G   Shutting down DBus IOHandler
+2020/07/28 20:04:21.393  4734 133131607966336 G   Logger started.
+2020/07/28 20:04:21.395  4734 133131607966336 G   Found 0 stack dump files ...
+2020/07/28 20:04:21.395  4734 133131607966336 G   Found 0 core dump files ...
+2020/07/28 20:04:21.396  4734 133131607966336 G   systemd: logind service available
+2020/07/28 20:04:21.398  4734 133131607966336 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:04:21.399  4734 133131607966336 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:04:21.399  4734 133131607966336 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:04:21.400  4734 133131607966336 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:04:21.400  4734 133131607966336 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:04:21.400  4734 133131478746880 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:04:21.400  4734 133131607966336 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:04:21.401  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.401  4734 133131607966336 G   Running on Qt 5.11.3
+2020/07/28 20:04:21.510  4734 133131607966336 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:04:21.511  4734 133131607966336 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:21.511  4734 133131607966336 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:21.511  4734 133131607966336 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:21.511  4734 133131607966336 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:21.511  4734 133131607966336 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:04:21.515  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.517  4734 133131607966336 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:04:21.519  4734 133131607966336 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:04:21.519  4734 133131607966336 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:04:21.519  4734 133131607966336 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:04:21.521  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.522  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.525  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.526  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.527  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.528  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.528  4734 133131607966336 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:04:21.528  4734 133131607966336 G   AccountLoginStateMachine::Reset
+2020/07/28 20:04:21.530  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.530  4734 133131607966336 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:04:21.531  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.531  4734 133131607966336 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:04:21.532  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.532  4734 133131607966336 G   Chat::Stop: Stopping chat
+2020/07/28 20:04:21.533  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.534  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.535  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.536  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.537  4734 133131607966336 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:21.537  4734 133131607966336 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:04:21.538  4734 133131607966336 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:04:21.538  4734 133131607966336 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:04:21.538  4734 133131607966336 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:04:21.538  4734 133131607966336 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:04:21.538  4734 133131607966336 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:04:21.538  4734 133131607966336 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:04:21.542  4734 133131607966336 G   Shutting down DBus IOHandler
+2020/07/28 20:04:55.667  4794 139403619435136 G   Logger started.
+2020/07/28 20:04:55.669  4794 139403619435136 G   Found 0 stack dump files ...
+2020/07/28 20:04:55.669  4794 139403619435136 G   Found 0 core dump files ...
+2020/07/28 20:04:55.672  4794 139403619435136 G   systemd: logind service available
+2020/07/28 20:04:55.673  4794 139403619435136 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:04:55.674  4794 139403619435136 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:04:55.675  4794 139403619435136 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:04:55.675  4794 139403619435136 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:04:55.675  4794 139403619435136 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:04:55.675  4794 139403355744000 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:04:55.675  4794 139403619435136 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:04:55.677  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.677  4794 139403619435136 G   Running on Qt 5.11.3
+2020/07/28 20:04:55.810  4794 139403619435136 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:04:55.811  4794 139403619435136 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:55.811  4794 139403619435136 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:55.811  4794 139403619435136 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:04:55.811  4794 139403619435136 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:04:55.811  4794 139403619435136 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:04:55.816  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.817  4794 139403619435136 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:04:55.820  4794 139403619435136 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:04:55.820  4794 139403619435136 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:04:55.820  4794 139403619435136 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:04:55.823  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.824  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.826  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.827  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.829  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.830  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.830  4794 139403619435136 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:04:55.830  4794 139403619435136 G   AccountLoginStateMachine::Reset
+2020/07/28 20:04:55.831  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.832  4794 139403619435136 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:04:55.833  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.833  4794 139403619435136 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:04:55.834  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.834  4794 139403619435136 G   Chat::Stop: Stopping chat
+2020/07/28 20:04:55.835  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.837  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.838  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.839  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.840  4794 139403619435136 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:04:55.841  4794 139403619435136 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:04:55.841  4794 139403619435136 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:04:55.841  4794 139403619435136 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:04:55.841  4794 139403619435136 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:04:55.841  4794 139403619435136 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:04:55.841  4794 139403619435136 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:04:55.841  4794 139403619435136 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:04:55.848  4794 139403619435136 G   Shutting down DBus IOHandler
+2020/07/28 20:05:29.434  4846 133657835586176 G   Logger started.
+2020/07/28 20:05:29.436  4846 133657835586176 G   Found 0 stack dump files ...
+2020/07/28 20:05:29.436  4846 133657835586176 G   Found 0 core dump files ...
+2020/07/28 20:05:29.438  4846 133657835586176 G   systemd: logind service available
+2020/07/28 20:05:29.441  4846 133657835586176 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:05:29.442  4846 133657835586176 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:05:29.442  4846 133657835586176 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:05:29.443  4846 133657835586176 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:05:29.443  4846 133657835586176 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:05:29.443  4846 133657570309888 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:05:29.443  4846 133657835586176 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:05:29.444  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.444  4846 133657835586176 G   Running on Qt 5.11.3
+2020/07/28 20:05:29.620  4846 133657835586176 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:05:29.620  4846 133657835586176 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:05:29.620  4846 133657835586176 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:05:29.620  4846 133657835586176 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:05:29.620  4846 133657835586176 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:05:29.620  4846 133657835586176 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:05:29.626  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.628  4846 133657835586176 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:05:29.630  4846 133657835586176 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:05:29.630  4846 133657835586176 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:05:29.630  4846 133657835586176 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:05:29.632  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.634  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.637  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.638  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.640  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.641  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.641  4846 133657835586176 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:05:29.641  4846 133657835586176 G   AccountLoginStateMachine::Reset
+2020/07/28 20:05:29.643  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.643  4846 133657835586176 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:05:29.644  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.645  4846 133657835586176 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:05:29.646  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.646  4846 133657835586176 G   Chat::Stop: Stopping chat
+2020/07/28 20:05:29.647  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.649  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.650  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.652  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.653  4846 133657835586176 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:05:29.653  4846 133657835586176 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:05:29.653  4846 133657835586176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:05:29.653  4846 133657835586176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:05:29.653  4846 133657835586176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:05:29.653  4846 133657835586176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:05:29.653  4846 133657835586176 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:05:29.653  4846 133657835586176 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:05:29.660  4846 133657835586176 G   Shutting down DBus IOHandler
+2020/07/28 20:16:52.313  4951 134562909135488 G   Logger started.
+2020/07/28 20:16:52.314  4951 134562909135488 G   Found 0 stack dump files ...
+2020/07/28 20:16:52.314  4951 134562909135488 G   Found 0 core dump files ...
+2020/07/28 20:16:52.316  4951 134562909135488 G   systemd: logind service available
+2020/07/28 20:16:52.319  4951 134562909135488 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:16:52.321  4951 134562909135488 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:16:52.322  4951 134562909135488 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:16:52.322  4951 134562909135488 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:16:52.324  4951 134562909135488 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:16:52.324  4951 134562909135488 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:16:52.324  4951 134562650773248 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:16:52.326  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.327  4951 134562909135488 G   Running on Qt 5.11.3
+2020/07/28 20:16:52.513  4951 134562909135488 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:16:52.513  4951 134562909135488 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:16:52.513  4951 134562909135488 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:16:52.513  4951 134562909135488 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:16:52.513  4951 134562909135488 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:16:52.514  4951 134562909135488 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:16:52.525  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.527  4951 134562909135488 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:16:52.530  4951 134562909135488 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:16:52.530  4951 134562909135488 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:16:52.530  4951 134562909135488 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:16:52.532  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.533  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.539  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.541  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.544  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.545  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.545  4951 134562909135488 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:16:52.545  4951 134562909135488 G   AccountLoginStateMachine::Reset
+2020/07/28 20:16:52.547  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.548  4951 134562909135488 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:16:52.549  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.549  4951 134562909135488 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:16:52.553  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.553  4951 134562909135488 G   Chat::Stop: Stopping chat
+2020/07/28 20:16:52.556  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.558  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.559  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.567  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.570  4951 134562909135488 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:16:52.570  4951 134562909135488 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:16:52.570  4951 134562909135488 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:16:52.570  4951 134562909135488 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:16:52.571  4951 134562909135488 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:16:52.571  4951 134562909135488 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:16:52.571  4951 134562909135488 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:16:52.571  4951 134562909135488 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:16:52.584  4951 134562909135488 G   Shutting down DBus IOHandler
+2020/07/28 20:21:46.825  5029 137760811221632 G   Logger started.
+2020/07/28 20:21:46.826  5029 137760811221632 G   Found 0 stack dump files ...
+2020/07/28 20:21:46.826  5029 137760811221632 G   Found 0 core dump files ...
+2020/07/28 20:21:46.828  5029 137760811221632 G   systemd: logind service available
+2020/07/28 20:21:46.831  5029 137760811221632 G   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='', canGraphical=0, canTTY=0, canMultiSession=0]
+2020/07/28 20:21:46.832  5029 137760811221632 G   LogindSessionInfo: New session LogindSessionInfo [id=2 user=andersonlima state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat= display= vtnr=4294967295 owner=[SysUser: andersonlima [uid=1000, gid=1000 home=/home/andersonlima gecos=andersonlima shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1595966430590696 service=sshd defaultCG= leader=270 audit=2 remote=1 rHost=100.115.92.25 rUser= killProc=0]
+2020/07/28 20:21:46.833  5029 137760811221632 G   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2020/07/28 20:21:46.833  5029 137760811221632 G   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2020/07/28 20:21:46.833  5029 137760811221632 G!  FrameBuffer: Cannot access /dev/fb0, frame buffer support unavailable
+2020/07/28 20:21:46.833  5029 137760754194176 G!! LinuxVT::GetActiveVT: ioctl: error=0 consoleFD=-3, sys: error=2
+2020/07/28 20:21:46.833  5029 137760811221632 G   SysSessionInfoManager::SessionAdded: adding session TerminalSession: sshd [SysSession 450215437 [type=84 vt=4294967295 tty= pseudotty=1 info=1 id=2 user=andersonlima state=user active=1 reliable=1]]
+2020/07/28 20:21:46.834  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:46.835  5029 137760811221632 G   Running on Qt 5.11.3
+2020/07/28 20:21:46.992  5029 137760811221632 G   Initialised XRandR extension 1.5 (base=88 error=145)
+2020/07/28 20:21:46.993  5029 137760811221632 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:21:46.993  5029 137760811221632 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:21:46.993  5029 137760811221632 G   MonitorInfo: [XRandR 1.2] CRTC XWAYLAND0 1920x1080@60Hz [0, 0, 1920, 1080] - 1
+2020/07/28 20:21:46.993  5029 137760811221632 G   Virtual Desktop [0, 0, 1920, 1080]
+2020/07/28 20:21:46.993  5029 137760811221632 G!! MonitorInfo: WorkingArea: Property error 14 (0)
+2020/07/28 20:21:47.000  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.001  5029 137760811221632 G!! StorageTextfileBackend::Open: Unable to open configuration file '/home/andersonlima/.config/teamviewer/client.conf' (RO)
+2020/07/28 20:21:47.004  5029 137760811221632 G!! ResourceLoader: loaded file '/opt/teamviewer/tv_bin/resources/TVResource_en.so' version () is not matching with application version (15.7.6)
+2020/07/28 20:21:47.005  5029 137760811221632 G   Loaded language 'en', using locale 'en'
+2020/07/28 20:21:47.005  5029 137760811221632 G   InterProcessBase::SecureNetwork created
+2020/07/28 20:21:47.006  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.007  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.008  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.009  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.011  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.015  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.015  5029 137760811221632 G   AutoLogin::Login: enabled: 1
+2020/07/28 20:21:47.015  5029 137760811221632 G   AccountLoginStateMachine::Reset
+2020/07/28 20:21:47.018  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.018  5029 137760811221632 G!! ApplicationLookOfflineState::ApplicationAppearanceOfflineState: state not loaded
+2020/07/28 20:21:47.019  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.019  5029 137760811221632 G!!!Own session could not be resolved, unable to startup
+2020/07/28 20:21:47.021  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.021  5029 137760811221632 G   Chat::Stop: Stopping chat
+2020/07/28 20:21:47.022  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.023  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.024  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.025  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.027  5029 137760811221632 G!! SysSessionInfoManager::GetOwnProcessSession: No session found!
+2020/07/28 20:21:47.027  5029 137760811221632 G   InterProcessBase::ShutdownIPC: Shutdown IPC
+2020/07/28 20:21:47.027  5029 137760811221632 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2020/07/28 20:21:47.027  5029 137760811221632 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2020/07/28 20:21:47.027  5029 137760811221632 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2020/07/28 20:21:47.027  5029 137760811221632 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2020/07/28 20:21:47.027  5029 137760811221632 G!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2020/07/28 20:21:47.027  5029 137760811221632 G   interprocessbase::SecureNetwork destroyed
+2020/07/28 20:21:47.035  5029 137760811221632 G   Shutting down DBus IOHandler

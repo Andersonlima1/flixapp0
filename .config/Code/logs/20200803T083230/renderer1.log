@@ -1,0 +1,81 @@
+[2020-08-03 08:44:54.741] [renderer1] [error] Failed to execute git
+[2020-08-03 08:46:54.105] [renderer1] [error] Cannot read property 'markers' of undefined: TypeError: Cannot read property 'markers' of undefined
+    at K.setTreeSelection (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:728)
+    at K.refreshPanel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:569)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:411)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-03 08:48:16.960] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:613)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:855)
+    at H.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:277)
+    at K.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7069:818)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:505)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-03 08:48:19.862] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:613)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:855)
+    at H.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:277)
+    at K.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7069:818)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:505)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-03 08:48:21.642] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:613)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:855)
+    at H.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:277)
+    at K.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7069:818)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:505)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-03 08:54:34.414] [renderer1] [error] Cannot read property 'markers' of undefined: TypeError: Cannot read property 'markers' of undefined
+    at K.setTreeSelection (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:728)
+    at K.refreshPanel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7060:569)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:411)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915
+[2020-08-03 08:57:38.427] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:613)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:855)
+    at H.expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:277)
+    at K.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7069:818)
+    at K.onDidChangeModel (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7066:505)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7065:690
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:235
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at t.MarkersModel.setResourceMarkers (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3208:741)
+    at p.onMarkerChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:193)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3493:121
+    at c.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:801)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:91:915

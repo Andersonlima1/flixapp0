@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///mnt/chromeos/MyFiles/Downloads/Brackets.Release.1.14.1.64-bit%20(1).deb" added="2020-07-13T18:26:12Z" modified="2020-07-13T19:05:42Z" visited="2020-07-13T18:26:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="gdebi-gtk" exec="&apos;gdebi-gtk %u&apos;" modified="2020-07-13T18:46:28Z" count="2"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:05:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/MyFiles/Downloads" added="2020-07-13T19:07:38Z" modified="2020-07-13T19:07:38Z" visited="2020-07-13T19:07:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:07:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/MyFiles/Downloads/2-JS-basics" added="2020-07-13T19:10:39Z" modified="2020-07-13T19:10:39Z" visited="2020-07-13T19:10:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:10:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/MyFiles/Downloads/2-JS-basics/final/index.html" added="2020-07-13T19:28:27Z" modified="2020-07-13T19:28:27Z" visited="2020-07-13T19:28:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:28:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos/MyFiles/Downloads/2-JS-basics/final" added="2020-07-13T19:28:46Z" modified="2020-07-13T19:28:46Z" visited="2020-07-13T19:28:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:28:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/chromeos" added="2020-07-13T19:37:34Z" modified="2020-07-13T19:37:34Z" visited="2020-07-13T19:37:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-13T19:37:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/js%20anderson" added="2020-07-13T19:39:54Z" modified="2020-07-27T16:10:11Z" visited="2020-07-13T19:39:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-27T16:10:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/anderson%20git%20js" added="2020-07-17T13:48:45Z" modified="2020-07-17T13:48:45Z" visited="2020-07-17T13:48:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T13:48:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/test.js" added="2020-07-17T16:18:48Z" modified="2020-07-17T16:18:48Z" visited="2020-07-17T16:18:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T16:18:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/test%20programming/index.html" added="2020-07-17T16:35:17Z" modified="2020-07-17T16:35:17Z" visited="2020-07-17T16:35:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T16:35:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/test%20programming/test.js" added="2020-07-17T17:00:21Z" modified="2020-07-17T17:00:21Z" visited="2020-07-17T17:00:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T17:00:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/test%20programming" added="2020-07-17T17:00:45Z" modified="2020-07-17T17:00:45Z" visited="2020-07-17T17:00:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T17:00:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/anderson%20git%20js/anderson" added="2020-07-17T17:04:24Z" modified="2020-08-03T14:24:42Z" visited="2020-07-17T17:04:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T14:24:42Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/anderson-master" added="2020-07-17T19:58:55Z" modified="2020-07-17T19:58:55Z" visited="2020-07-17T19:58:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-17T19:58:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/bash-completion/completions/btdownloadcurses.py" added="2020-07-19T12:40:39Z" modified="2020-07-19T12:40:39Z" visited="2020-07-19T12:40:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gdebi-gtk" exec="&apos;gdebi-gtk %u&apos;" modified="2020-07-19T12:40:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/python" added="2020-07-20T11:52:21Z" modified="2020-07-20T18:04:40Z" visited="2020-07-20T11:52:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-20T18:04:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/health%20app" added="2020-07-20T14:32:37Z" modified="2020-07-20T14:32:37Z" visited="2020-07-20T14:32:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-20T14:32:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/python/health.py" added="2020-07-20T18:04:20Z" modified="2020-07-20T18:04:20Z" visited="2020-07-20T18:04:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-20T18:04:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/js%20dom/index.html" added="2020-07-27T14:08:38Z" modified="2020-07-27T14:08:38Z" visited="2020-07-27T14:08:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-27T14:08:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/js%20dom/dom-nodes.html" added="2020-07-27T15:58:51Z" modified="2020-07-27T15:58:51Z" visited="2020-07-27T15:58:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-27T15:58:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/js%20dom" added="2020-07-27T16:09:50Z" modified="2020-07-27T16:09:50Z" visited="2020-07-27T16:09:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-27T16:09:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/calculadora" added="2020-07-28T20:30:13Z" modified="2020-07-28T20:30:13Z" visited="2020-07-28T20:30:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-28T20:30:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/desafio.html" added="2020-07-28T20:42:42Z" modified="2020-07-28T20:42:42Z" visited="2020-07-28T20:42:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-28T20:42:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/calc" added="2020-07-28T20:56:43Z" modified="2020-07-28T22:53:18Z" visited="2020-07-28T20:56:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-28T22:53:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/calc/css/desafio.css" added="2020-07-28T23:43:11Z" modified="2020-07-28T23:43:11Z" visited="2020-07-28T23:43:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-28T23:43:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/DeepinScreenshot_select-area_20200729100521.png" added="2020-07-29T13:05:25Z" modified="2020-07-29T13:05:25Z" visited="2020-07-29T13:05:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="deepin-screenshot" exec="&apos;deepin-screenshot %u&apos;" modified="2020-07-29T13:05:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/tutorial1.png" added="2020-07-29T13:11:10Z" modified="2020-07-29T13:11:10Z" visited="2020-07-29T13:11:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="deepin-screenshot" exec="&apos;deepin-screenshot %u&apos;" modified="2020-07-29T13:11:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/DeepinScreenshot_select-area_20200729101452.png" added="2020-07-29T13:14:55Z" modified="2020-07-29T13:14:55Z" visited="2020-07-29T13:14:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="deepin-screenshot" exec="&apos;deepin-screenshot %u&apos;" modified="2020-07-29T13:14:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/j.png" added="2020-07-29T13:34:42Z" modified="2020-07-29T13:34:42Z" visited="2020-07-29T13:34:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="spectacle" exec="&apos;spectacle %u&apos;" modified="2020-07-29T13:34:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/print.jpeg" added="2020-07-29T13:35:20Z" modified="2020-07-29T13:35:20Z" visited="2020-07-29T13:35:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="spectacle" exec="&apos;spectacle %u&apos;" modified="2020-07-29T13:35:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/mywebsite" added="2020-07-29T18:26:18Z" modified="2020-07-29T18:26:18Z" visited="2020-07-29T18:26:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-29T18:26:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/mythings" added="2020-07-29T21:21:58Z" modified="2020-07-29T21:21:58Z" visited="2020-07-29T21:21:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-29T21:21:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/meu_app" added="2020-07-30T02:00:45Z" modified="2020-07-30T02:00:45Z" visited="2020-07-30T02:00:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-30T02:00:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/test_com_luiz/projeto" added="2020-07-30T12:36:36Z" modified="2020-07-30T12:36:36Z" visited="2020-07-30T12:36:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-30T12:36:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/django_project/django_projeto" added="2020-07-30T12:57:07Z" modified="2020-07-30T12:57:07Z" visited="2020-07-30T12:57:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-30T12:57:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/projeto_django2/projetodjango2" added="2020-07-31T03:18:05Z" modified="2020-07-31T03:18:05Z" visited="2020-07-31T03:18:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T03:18:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/teste9/test9" added="2020-07-31T03:26:55Z" modified="2020-07-31T03:26:55Z" visited="2020-07-31T03:26:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T03:26:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/pythond_django_project/mysite" added="2020-07-31T03:35:19Z" modified="2020-07-31T03:35:19Z" visited="2020-07-31T03:35:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T03:35:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/python_django_project/mysite" added="2020-07-31T03:42:38Z" modified="2020-07-31T03:42:38Z" visited="2020-07-31T03:42:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T03:42:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/django_project/mysite" added="2020-07-31T03:49:05Z" modified="2020-07-31T03:49:05Z" visited="2020-07-31T03:49:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T03:49:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/anderson%20git%20js/anderson/algo" added="2020-07-31T16:03:53Z" modified="2020-07-31T16:03:53Z" visited="2020-07-31T16:03:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-07-31T16:03:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/allflix" added="2020-08-02T21:23:07Z" modified="2020-08-03T17:16:25Z" visited="2020-08-02T21:23:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T17:16:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima" added="2020-08-03T14:11:58Z" modified="2020-08-03T14:11:58Z" visited="2020-08-03T14:11:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T14:11:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/andersonlima/imersao-react-alura-master" added="2020-08-03T16:55:26Z" modified="2020-08-03T16:55:26Z" visited="2020-08-03T16:55:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2020-08-03T16:55:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

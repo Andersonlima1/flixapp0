@@ -1,0 +1,32 @@
+[2020-08-03 08:32:35.071] [sharedprocess] [info] main {"machineId":"e985c3c6439e57aee734d6f66384a2d7bd28a59f0601c9cdd2daa3ce4903f1d1","windowId":2}
+[2020-08-03 08:33:15.104] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-03 09:02:59.951] [sharedprocess] [info] Installing extension: tobiah.unity-tools
+[2020-08-03 09:03:00.869] [sharedprocess] [info] Downloaded extension: tobiah.unity-tools /home/andersonlima/.config/Code/CachedExtensionVSIXs/tobiah.unity-tools-1.2.3
+[2020-08-03 09:03:01.024] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.tobiah.unity-tools-1.2.3: tobiah.unity-tools
+[2020-08-03 09:03:01.025] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/tobiah.unity-tools-1.2.3
+[2020-08-03 09:03:01.029] [sharedprocess] [info] Installation completed. tobiah.unity-tools
+[2020-08-03 09:03:01.443] [sharedprocess] [info] Installing extension: unity.unity-debug
+[2020-08-03 09:03:13.783] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2020-08-03 09:03:14.632] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp /home/andersonlima/.config/Code/CachedExtensionVSIXs/ms-dotnettools.csharp-1.22.1
+[2020-08-03 09:03:15.031] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.ms-dotnettools.csharp-1.22.1: ms-dotnettools.csharp
+[2020-08-03 09:03:15.033] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/ms-dotnettools.csharp-1.22.1
+[2020-08-03 09:03:15.045] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2020-08-03 09:03:15.077] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2020-08-03 09:03:17.469] [sharedprocess] [info] Downloaded extension: unity.unity-debug /home/andersonlima/.config/Code/CachedExtensionVSIXs/unity.unity-debug-2.7.5
+[2020-08-03 09:03:26.072] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2020-08-03 09:03:27.310] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/andersonlima/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-10.2.2
+[2020-08-03 09:03:29.783] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-08-03 09:03:29.784] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/eamodio.gitlens-10.2.2
+[2020-08-03 09:03:29.794] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2020-08-03 09:03:29.814] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2020-08-03 09:03:41.830] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.unity.unity-debug-2.7.5: unity.unity-debug
+[2020-08-03 09:03:41.830] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/unity.unity-debug-2.7.5
+[2020-08-03 09:03:41.841] [sharedprocess] [info] Installation completed. unity.unity-debug
+[2020-08-03 09:03:42.041] [sharedprocess] [info] Extensions installed successfully: unity.unity-debug
+[2020-08-03 09:03:42.049] [sharedprocess] [info] Extensions installed successfully: tobiah.unity-tools
+[2020-08-03 09:04:00.156] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2020-08-03 09:04:01.708] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /home/andersonlima/.config/Code/CachedExtensionVSIXs/donjayamanne.githistory-0.6.9
+[2020-08-03 09:04:02.117] [sharedprocess] [info] Extracted extension to /home/andersonlima/.vscode/extensions/.donjayamanne.githistory-0.6.9: donjayamanne.githistory
+[2020-08-03 09:04:02.120] [sharedprocess] [info] Renamed to /home/andersonlima/.vscode/extensions/donjayamanne.githistory-0.6.9
+[2020-08-03 09:04:02.121] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2020-08-03 09:04:02.221] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
