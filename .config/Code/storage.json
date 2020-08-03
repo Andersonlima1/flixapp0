@@ -353,7 +353,8 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
@@ -426,7 +427,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -654,7 +656,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1709,7 +1712,7 @@
             "folder": "file:///home/andersonlima/flixapp0-master",
             "backupPath": "/home/andersonlima/.config/Code/Backups/fa26c7bafd91c70c512785f2d0cc2044",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 0,
                 "y": 38,
                 "width": 1477,
